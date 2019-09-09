@@ -1,0 +1,16 @@
+ion-slide{
+    padding: 140px 20px;
+    display: block;
+    h2{
+        font-size: 36px;
+        font-weight: bold;
+    }
+}
+
+ion-slides{
+    --bullet-background-active: var(--ion-color-hk-red);
+    --bullet-background: var(--ion-color-hk-red-tint);
+
+    // background: #3b2e85;
+    // background-color: #3b2e85;
+}
